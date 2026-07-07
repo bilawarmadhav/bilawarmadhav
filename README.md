@@ -104,8 +104,8 @@ madhav:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bilawarmadhav&show_icons=true&theme=react&bg_color=0A0F1C&title_color=00D9FF&icon_color=FF7A00&text_color=E5E9FF&border_color=1B2340&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilawarmadhav&layout=compact&theme=react&bg_color=0A0F1C&title_color=00D9FF&text_color=E5E9FF&border_color=1B2340" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=bilawarmadhav&show_icons=true&theme=react&bg_color=0A0F1C&title_color=00D9FF&icon_color=FF7A00&text_color=E5E9FF&border_color=1B2340&count_private=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bilawarmadhav&layout=compact&theme=react&bg_color=0A0F1C&title_color=00D9FF&text_color=E5E9FF&border_color=1B2340" width="49%"/>
 
 </div>
 
