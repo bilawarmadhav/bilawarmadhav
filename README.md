@@ -87,7 +87,7 @@ madhav:
 </td>
 <td width="50%">
 
-<img src="https://placehold.co/500x250/0A0F1C/FF7A00/png?text=Full-Stack+Web+App&font=raleway" width="100%"/>
+<img src="https://placehold.co/500x250/0A0F1C/FF7A00/png?text=Full+Stack+Web+App&font=raleway" width="100%"/>
 
 **⚙️ Full-Stack Web App** — Secure auth, REST APIs, and a polished responsive UI.
 `React` `Express.js` `MySQL`
@@ -104,8 +104,8 @@ madhav:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react&bg_color=0A0F1C&title_color=00D9FF&icon_color=FF7A00&text_color=E5E9FF&border_color=1B2340&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=react&bg_color=0A0F1C&title_color=00D9FF&text_color=E5E9FF&border_color=1B2340" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bilawarmadhav&show_icons=true&theme=react&bg_color=0A0F1C&title_color=00D9FF&icon_color=FF7A00&text_color=E5E9FF&border_color=1B2340&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilawarmadhav&layout=compact&theme=react&bg_color=0A0F1C&title_color=00D9FF&text_color=E5E9FF&border_color=1B2340" width="49%"/>
 
 </div>
 
@@ -115,7 +115,7 @@ madhav:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0A0F1C?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0F1C?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/bilawarmadhav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F1C?style=for-the-badge&logo=linkedin&logoColor=FF7A00)](https://linkedin.com/in/your-username)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0F1C?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://bilawarmadhav.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-0A0F1C?style=for-the-badge&logo=gmail&logoColor=FF7A00)](mailto:your-email@example.com)
