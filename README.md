@@ -4,11 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=👋+Hey,+I'm+Madhav;Full-Stack+Developer;Building+Modern+Web+Experiences;AI+Enthusiast;Always+Learning+Something+New"/>
-
-<br><br>
-
-> ### **"Turning ideas into immersive digital experiences—where clean code meets modern design."**
+ ### **"Turning ideas into immersive digital experiences—where clean code meets modern design."**
 
 <br>
 
